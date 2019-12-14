@@ -5,7 +5,6 @@ Camilo Acosta - @acosmilo
 ## Objetivo 🎯
 Crear un reloj binario usando unicamente Arduino, sin la multiplexación del integrado MAX7219.
 
-
 ## Introducción
 
 Trabajo correspondiente al proyecto Reloj Nixie Binario.
